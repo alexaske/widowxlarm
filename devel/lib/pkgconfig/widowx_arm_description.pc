@@ -1,0 +1,8 @@
+prefix=/home/alex/Desktop/widowxl_ws/devel
+
+Name: widowx_arm_description
+Description: Description of widowx_arm_description
+Version: 0.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro

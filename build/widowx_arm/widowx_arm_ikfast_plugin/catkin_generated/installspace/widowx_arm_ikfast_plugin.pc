@@ -1,0 +1,8 @@
+prefix=/home/alex/Desktop/widowxl_ws/install
+
+Name: widowx_arm_ikfast_plugin
+Description: Description of widowx_arm_ikfast_plugin
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions

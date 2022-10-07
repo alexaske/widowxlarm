@@ -1,2 +1,2 @@
-
+arbotix_ros/arbotix:arbotix_ros/arbotix_controllers:arbotix_ros/arbotix_firmware:arbotix_ros/arbotix_msgs:arbotix_ros/arbotix_python:arbotix_ros/arbotix_sensors:widowx_arm/widowx_arm:widowx_arm/widowx_arm_bringup:widowx_arm/widowx_arm_controller:widowx_arm/widowx_arm_description:widowx_arm/widowx_arm_ikfast_plugin:widowx_arm/widowx_arm_moveit_config:widowx_arm/widowx_block_manipulation
 -DCATKIN_DEVEL_PREFIX=/home/alex/Desktop/widowxl_ws/devel -DCMAKE_INSTALL_PREFIX=/home/alex/Desktop/widowxl_ws/install -G Unix Makefiles

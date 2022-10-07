@@ -1,0 +1,7 @@
+set(widowx_arm_controller_SETUP_PY_SETUP_MODULE "distutils.core")
+set(widowx_arm_controller_SETUP_PY_VERSION "0.0.2")
+set(widowx_arm_controller_SETUP_PY_SCRIPTS "")
+set(widowx_arm_controller_SETUP_PY_PACKAGES "")
+set(widowx_arm_controller_SETUP_PY_PACKAGE_DIRS "src")
+set(widowx_arm_controller_SETUP_PY_MODULES "")
+set(widowx_arm_controller_SETUP_PY_MODULE_DIRS "")
